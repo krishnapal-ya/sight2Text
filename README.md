@@ -1,0 +1,1 @@
+Sight2Text is a self-project that demonstrates how Vision Transformers (SigLIP) can be combined with a Text Decoder (Gemma) to build an image-to-text system. The project implements a custom pipeline for preprocessing, tokenization, and model weight management, followed by an end-to-end inference workflow for vision-to-language tasks.
