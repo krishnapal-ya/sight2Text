@@ -1,5 +1,3 @@
-#!/bin/bash
-
 MODEL_PATH="/root/.cache/huggingface/hub/models--google--paligemma-3b-pt-224/snapshots/35e4f46485b4d07967e7e9935bc3786aad50687c"
 PROMPT="this is "
 IMAGE_FILE_PATH="test/pic1.jpeg"
