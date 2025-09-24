@@ -29,5 +29,6 @@ The project implements a **custom pipeline** for preprocessing, tokenization, an
 ```
 
 ## contributers
--Krishnapal Yadav
+-Krishnapal Yadav  
 -Jayvardhan Sakwar
+
