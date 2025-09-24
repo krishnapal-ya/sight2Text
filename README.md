@@ -25,3 +25,6 @@ The project implements a **custom pipeline** for preprocessing, tokenization, an
 ├── test/
 │   └── pic1.jpeg             # Sample test image
 
+#contributers
+Krishnapal Yadav
+Jayvardhan Sakwar
